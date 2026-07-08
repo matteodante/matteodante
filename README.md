@@ -1,3 +1,5 @@
+# DANTE-1 Mission Control
+
 <p align="center">
   <a href="https://matteodante.it" aria-label="Open Matteo Dante portfolio">
     <img src="./assets/mission-hero.svg" width="100%" alt="DANTE-1 Mission Control — Matteo Dante, Senior Software Engineer">
