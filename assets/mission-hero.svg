@@ -18,11 +18,11 @@
     <g transform="translate(2 226)">
       <rect x="0" y="0" width="578" height="128" rx="18" fill="#0C141C" stroke="#2B3A45"/><path d="M22 34H556M22 76H556" stroke="#263541"/>
       <text class="mono tiny muted" x="22" y="23">ACTIVE TRANSMISSION</text>
-      <text class="mono small cream" x="22" y="58">BUILDING: pilot-training platforms · fitness AI · agent retrieval</text>
+      <text class="mono small cream" x="22" y="58">SHIPPED: Maestro · GymTree · cockpit portfolio · agent retrieval</text>
       <text class="mono small cyan" x="22" y="100">SIGNAL: reliable product interfaces + boring secure backends</text>
     </g>
     <g transform="translate(0 390)" class="mono tiny">
-      <rect x="0" y="0" width="112" height="34" rx="9" fill="#F2B84B" fill-opacity="0.13" stroke="#F2B84B" stroke-opacity="0.75"/><text x="16" y="22" class="gold">PILATUS</text>
+      <rect x="0" y="0" width="112" height="34" rx="9" fill="#F2B84B" fill-opacity="0.13" stroke="#F2B84B" stroke-opacity="0.75"/><text x="16" y="22" class="gold">MAESTRO</text>
       <rect x="126" y="0" width="112" height="34" rx="9" fill="#40C8E8" fill-opacity="0.10" stroke="#40C8E8" stroke-opacity="0.68"/><text x="144" y="22" class="cyan">GYMTREE</text>
       <rect x="252" y="0" width="120" height="34" rx="9" fill="#F7F1E6" fill-opacity="0.055" stroke="#D6DEE7" stroke-opacity="0.35"/><text x="270" y="22" class="steel">RAG / AI</text>
       <rect x="386" y="0" width="138" height="34" rx="9" fill="#F7F1E6" fill-opacity="0.055" stroke="#D6DEE7" stroke-opacity="0.35"/><text x="404" y="22" class="steel">THREE.JS</text>

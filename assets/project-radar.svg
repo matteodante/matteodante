@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Project radar for Matteo Dante</title>
-  <desc id="desc">A mission-control radar mapping Matteo Dante's public and current work.</desc>
+  <desc id="desc">A mission-control radar mapping Matteo Dante's App Store apps, public work, and current platform work.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071019"/><stop offset="1" stop-color="#101820"/></linearGradient>
     <radialGradient id="pulse" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#40C8E8" stop-opacity="0.20"/><stop offset="1" stop-color="#40C8E8" stop-opacity="0"/></radialGradient>
@@ -8,15 +8,15 @@
     <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Inter,ui-sans-serif,system-ui}.muted{fill:#9EACB8}.cyan{fill:#7EE3F6}.gold{fill:#F7D88C}.cream{fill:#F7F1E6}.panel{fill:#0C141C;stroke:#2B3A45}.line{stroke:#40C8E8;stroke-opacity:.24}.thin{stroke-width:1}.thick{stroke-width:2}</style>
   </defs>
   <rect width="1200" height="420" rx="28" fill="url(#bg)"/><rect width="1200" height="420" rx="28" fill="url(#dots)"/>
-  <text x="52" y="58" class="mono cyan" font-size="18" letter-spacing="3">PROJECT RADAR</text><text x="52" y="88" class="sans cream" font-size="30" font-weight="760">Signals currently worth opening</text>
+  <text x="52" y="58" class="mono cyan" font-size="18" letter-spacing="3">PROJECT RADAR</text><text x="52" y="88" class="sans cream" font-size="30" font-weight="760">App Store apps and public signals</text>
   <g transform="translate(420 34)">
     <circle cx="210" cy="176" r="168" fill="url(#pulse)"/><circle cx="210" cy="176" r="160" fill="none" class="line thick"/><circle cx="210" cy="176" r="112" fill="none" class="line thin"/><circle cx="210" cy="176" r="64" fill="none" class="line thin"/>
     <path d="M210 16v320M50 176h320M97 63l226 226M97 289L323 63" class="line thin"/><circle cx="210" cy="176" r="17" fill="#101820" stroke="#F2B84B" stroke-width="2"/><text x="210" y="181" text-anchor="middle" class="mono gold" font-size="12">D-1</text>
     <g class="mono" font-size="13">
       <line x1="210" y1="176" x2="315" y2="92" stroke="#F2B84B" stroke-opacity=".7"/><circle cx="315" cy="92" r="10" fill="#F2B84B"/><text x="331" y="97" class="gold">portfolio-cockpit</text>
       <line x1="210" y1="176" x2="97" y2="238" stroke="#40C8E8" stroke-opacity=".65"/><circle cx="97" cy="238" r="9" fill="#40C8E8"/><text x="-36" y="243" class="cyan">claude-local-docs</text>
-      <line x1="210" y1="176" x2="257" y2="294" stroke="#D6DEE7" stroke-opacity=".45"/><circle cx="257" cy="294" r="8" fill="#D6DEE7"/><text x="273" y="299" class="cream">GymTree</text>
-      <line x1="210" y1="176" x2="126" y2="80" stroke="#D6DEE7" stroke-opacity=".38"/><circle cx="126" cy="80" r="7" fill="#D6DEE7"/><text x="10" y="85" class="muted">Pilatus platform</text>
+      <line x1="210" y1="176" x2="257" y2="294" stroke="#D6DEE7" stroke-opacity=".45"/><circle cx="257" cy="294" r="8" fill="#D6DEE7"/><text x="273" y="299" class="cream">GymTree · App Store</text>
+      <line x1="210" y1="176" x2="126" y2="80" stroke="#D6DEE7" stroke-opacity=".38"/><circle cx="126" cy="80" r="7" fill="#D6DEE7"/><text x="10" y="85" class="muted">Maestro · App Store</text>
       <line x1="210" y1="176" x2="329" y2="216" stroke="#40C8E8" stroke-opacity=".45"/><circle cx="329" cy="216" r="7" fill="#7EE3F6"/><text x="345" y="221" class="cyan">skills</text>
     </g>
   </g>
