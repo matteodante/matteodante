@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://matteodante.it" aria-label="Open Matteo Dante portfolio">
-    <img src="./assets/mission-hero.svg" width="100%" alt="DANTE-1 Mission Control — Matteo Dante, Senior Software Engineer">
+    <img src="./assets/mission-hero-openai.png" width="100%" alt="DANTE-1 Mission Control — Matteo Dante, Senior Software Engineer">
   </a>
 </p>
 
@@ -35,7 +35,7 @@ I like systems that have to work outside the demo: restricted enterprise environ
 - **This profile's visual language:** lifted from [`portfolio-cockpit`](https://github.com/matteodante/portfolio-cockpit), my 3D portfolio where you fly between planets instead of scrolling sections.
 
 <p align="center">
-  <img src="./assets/project-radar.svg" width="100%" alt="Project radar showing Maestro, GymTree, portfolio-cockpit, claude-local-docs, skills, and platform work">
+  <img src="./assets/project-radar-openai-wide.png" width="100%" alt="Project radar showing Maestro, GymTree, portfolio-cockpit, claude-local-docs, skills, and platform work">
 </p>
 
 ## Mission sectors
@@ -56,7 +56,7 @@ LLM agents, streaming responses, structured outputs, persistent AI chat, embeddi
 - GymTree: https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4
 
 <p align="center">
-  <img src="./assets/systems-console.svg" width="100%" alt="Systems console showing Matteo Dante's frontend, backend, AI search, and delivery stack">
+  <img src="./assets/systems-console-openai-wide.png" width="100%" alt="Systems console showing Matteo Dante's frontend, backend, AI search, and delivery stack">
 </p>
 
 ## Public coordinates
