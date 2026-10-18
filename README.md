@@ -29,6 +29,10 @@
 - [Maestro](https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4) — native AI tutor for iOS.
 - [GymTree](https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4) — fitness platform with an AI coach.
 
+## Writing
+
+- [Porting a 400,000-line Windows MMORPG to the browser, multiplayer included](https://matteodante.it/en/blog/porting-a-windows-mmo-client-to-the-browser) — C++, MFC, Win32, Direct3D 9 and DirectSound compiled to WebAssembly over an API layer, with a team of AI coding agents.
+
 ## Stack
 
 <p>
