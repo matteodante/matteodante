@@ -20,8 +20,10 @@
 
 ## Selected work
 
+- [DroneClean](https://droneclean.app) — removes a drone's own shadow from aerial video with one tap, in the browser.
+- [Portico](https://github.com/matteodante/portico) — runs Direct3D 9 C++ programs in the browser from source, under MPL-2.0. [Live demo](https://matteodante.it/portico-demo/index.html).
 - [portfolio-cockpit](https://github.com/matteodante/portfolio-cockpit) — interactive 3D portfolio with an AI co-pilot.
-- [therapist](https://github.com/matteodante/therapist) — local-first, encrypted AI agent for self-reflection.
+- [Filo](https://github.com/matteodante/filo) — local-first, encrypted AI conversation agent for adult self-reflection.
 - [miniform](https://github.com/matteodante/miniform) — quiet, self-hosted inbox for form submissions.
 - [claude-local-docs](https://github.com/matteodante/claude-local-docs) — local-first documentation retrieval for coding agents.
 - [Maestro](https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4) — native AI tutor for iOS.
@@ -35,6 +37,8 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&amp;logo=swift&amp;logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white">
+  <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&amp;logo=webassembly&amp;logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
