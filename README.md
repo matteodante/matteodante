@@ -32,6 +32,7 @@
 ## Writing
 
 - [Miniform: a form inbox that never loses a message](https://matteodante.it/en/blog/miniform-self-hosted-form-inbox) — why the contact forms on the sites I build land in an inbox I own, and what reliability actually means.
+- [GymTree: building for the ninety seconds between sets](https://matteodante.it/en/blog/gymtree-workout-and-coaching) — designing for a breathless moment, and for the coach on the other side of it.
 - [Filo: an AI that remembers you, and learns to forget](https://matteodante.it/en/blog/filo-memory) — a self-hosted agent for self-reflection, and the study that told me to remember less.
 - [Portico: old Direct3D programs, unchanged, in a browser tab](https://matteodante.it/en/blog/portico-direct3d9-webgl2) — the open-source piece of a bigger port, and how I know it works.
 - [Porting a 400,000-line Windows MMORPG to the browser, multiplayer included](https://matteodante.it/en/blog/porting-a-windows-mmo-client-to-the-browser) — C++, MFC, Win32, Direct3D 9 and DirectSound compiled to WebAssembly over an API layer, with a team of AI coding agents.
