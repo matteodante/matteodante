@@ -31,6 +31,7 @@
 
 ## Writing
 
+- [Why I built an app that erases a drone's own shadow](https://matteodante.it/en/blog/droneclean-shadow-removal) — DroneClean, from a question on my own PC to a free beta in three weeks, and what the shadow taught me.
 - [Miniform: a form inbox that never loses a message](https://matteodante.it/en/blog/miniform-self-hosted-form-inbox) — why the contact forms on the sites I build land in an inbox I own, and what reliability actually means.
 - [GymTree: building for the ninety seconds between sets](https://matteodante.it/en/blog/gymtree-workout-and-coaching) — designing for a breathless moment, and for the coach on the other side of it.
 - [Maestro: turning "I want to take better photos" into a course](https://matteodante.it/en/blog/maestro-learning-goals-and-practice) — an iPhone tutor that will not call a course finished until you have learned, and what it took to trust generated lessons.
