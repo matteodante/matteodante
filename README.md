@@ -21,7 +21,7 @@
 ## Selected work
 
 - [DroneClean](https://droneclean.app) — removes a drone's own shadow from aerial video with one tap, in the browser.
-- [Portico](https://github.com/matteodante/portico) — runs Direct3D 9 C++ programs in the browser from source, under MPL-2.0. [Live demo](https://matteodante.it/portico-demo/index.html).
+- [Portico](https://github.com/matteodante/portico) — runs Direct3D 9 C++ programs in the browser from source, under MPL-2.0. [Live demo](https://www.matteodante.it/portico-demo/index.html).
 - [portfolio-cockpit](https://github.com/matteodante/portfolio-cockpit) — interactive 3D portfolio with an AI co-pilot.
 - [Filo](https://github.com/matteodante/filo) — local-first, encrypted AI conversation agent for adult self-reflection.
 - [miniform](https://github.com/matteodante/miniform) — quiet, self-hosted inbox for form submissions.
@@ -31,14 +31,14 @@
 
 ## Writing
 
-- [Why I built an app that erases a drone's own shadow](https://matteodante.it/en/blog/droneclean-shadow-removal) — DroneClean, from a question on my own PC to a free beta in three weeks, and what the shadow taught me.
-- [Miniform: a form inbox that never loses a message](https://matteodante.it/en/blog/miniform-self-hosted-form-inbox) — why the contact forms on the sites I build land in an inbox I own, and what reliability actually means.
-- [GymTree: building for the ninety seconds between sets](https://matteodante.it/en/blog/gymtree-workout-and-coaching) — designing for a breathless moment, and for the coach on the other side of it.
-- [Maestro: turning "I want to take better photos" into a course](https://matteodante.it/en/blog/maestro-learning-goals-and-practice) — an iPhone tutor that will not call a course finished until you have learned, and what it took to trust generated lessons.
-- [Why my CV is a spaceship](https://matteodante.it/en/blog/portfolio-cockpit-playable-cv) — the playable CV, and the rule that kept it from becoming a gimmick.
-- [Filo: an AI that remembers you, and learns to forget](https://matteodante.it/en/blog/filo-memory) — a self-hosted agent for self-reflection, and the study that told me to remember less.
-- [Portico: old Direct3D programs, unchanged, in a browser tab](https://matteodante.it/en/blog/portico-direct3d9-webgl2) — the open-source piece of a bigger port, and how I know it works.
-- [Porting a 400,000-line Windows MMORPG to the browser, multiplayer included](https://matteodante.it/en/blog/porting-a-windows-mmo-client-to-the-browser) — C++, MFC, Win32, Direct3D 9 and DirectSound compiled to WebAssembly over an API layer, with a team of AI coding agents.
+- [Why I built an app that erases a drone's own shadow](https://www.matteodante.it/en/blog/droneclean-shadow-removal) — DroneClean, from a question on my own PC to a free beta in three weeks, and what the shadow taught me.
+- [Miniform: a form inbox that never loses a message](https://www.matteodante.it/en/blog/miniform-self-hosted-form-inbox) — why the contact forms on the sites I build land in an inbox I own, and what reliability actually means.
+- [GymTree: building for the ninety seconds between sets](https://www.matteodante.it/en/blog/gymtree-workout-and-coaching) — designing for a breathless moment, and for the coach on the other side of it.
+- [Maestro: turning "I want to take better photos" into a course](https://www.matteodante.it/en/blog/maestro-learning-goals-and-practice) — an iPhone tutor that will not call a course finished until you have learned, and what it took to trust generated lessons.
+- [Why my CV is a spaceship](https://www.matteodante.it/en/blog/portfolio-cockpit-playable-cv) — the playable CV, and the rule that kept it from becoming a gimmick.
+- [Filo: an AI that remembers you, and learns to forget](https://www.matteodante.it/en/blog/filo-memory) — a self-hosted agent for self-reflection, and the study that told me to remember less.
+- [Portico: old Direct3D programs, unchanged, in a browser tab](https://www.matteodante.it/en/blog/portico-direct3d9-webgl2) — the open-source piece of a bigger port, and how I know it works.
+- [Porting a 400,000-line Windows MMORPG to the browser, multiplayer included](https://www.matteodante.it/en/blog/porting-a-windows-mmo-client-to-the-browser) — C++, MFC, Win32, Direct3D 9 and DirectSound compiled to WebAssembly over an API layer, with a team of AI coding agents.
 
 ## Stack
 
